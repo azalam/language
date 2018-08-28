@@ -1,0 +1,14 @@
+positif(s)   ->    fawowo / fawowji
+ex: +1, +2, +8, +15, +1021, etc
+    +2 -> fawi didi
+    +10 -> fawi sappo
+
+negatif(s)   ->     fawtowo / fawtowji
+ex: -1, -3, -12, etc
+    -4: fawti nayi
+    -8: fawti jey tati
+
+fractionnaire(s)  ->    lawtowo / lawtowji
+ex: 2/5, 4/3, etc
+    2/5: didi lawti jowi
+    4/3: nayi lawti tati

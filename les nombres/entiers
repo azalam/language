@@ -1,0 +1,60 @@
+0   ->  fus
+1   ->  goo (rappel: le double 'o' n'est pas un allongement: il faut donc prononcer les deux 'o' separement)
+2   ->  didi (rappel: ca se prononce dhidhi en francais, etc)
+3   ->  tati
+4   ->  nayi
+5   ->  jowi
+6   ->  jey goo
+7   ->  jey didi
+8   ->  jey tati
+9   ->  jey nayi
+10  ->  sappo
+11  ->  sappo goo
+12  ->  sappo didi
+... ->  ...
+
+20  ->  nowgay
+21  ->  nowgay goo
+... ->  ...
+
+30  ->  cappan tati
+40  ->  cappan nayi
+... ->  ...
+
+100 -> teymezere
+200 -> teymed didi (le pluriel de 'z' devient 'd' comme ailleurs..)
+300 -> teymed tati
+... -> ...
+
+1 000-> wuluwre / wuwre
+2 000-> guluwji didi
+... -> ...
+
+10 000 -> guluwji sappo
+20 000 -> guluwji nowgay
+
+...  -> ...
+
+100 000 -> guluwji teymezere
+500 000 -> guluwji teymed jowi
+
+...  -> ...
+
+1 000 000 -> diduwre (c'est a dire 1000 x 1000, deux(didi) fois)
+1 000 000 000 -> tatuwre (= 1000 x 1000 x 1000 = 1000^3: puissance 3)
+1 000 000 000 000 -> nayuwre (= 1000^4 (nayi))
+1000^5  ->   jowiyre
+1000^6  ->   jeywuwre
+
+...
+
+1000^10 -> sappuwre
+1000^20 -> nowgayuwre
+
+...
+
+1000^100 -> teymezuwre
+
+...
+
+etc
